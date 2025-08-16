@@ -1,0 +1,1 @@
+#A computer language is a formal language used to communicate instructions to a machine. This includes programming languages, markup languages (HTML), query languages (SQL), etc.

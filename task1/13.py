@@ -1,0 +1,1 @@
+# Correct Statement: In Python, variables do not need to be declared before assigning a value. You simply assign a value and the variable is created.
